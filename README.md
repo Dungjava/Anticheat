@@ -6,9 +6,9 @@ Do note that this is a community-compiled list and is incomplete! If you wish to
 AntiCheat compatibility reports¶
 Full Compatibility (Checks Bedrock Players Accurately)
 
-[AntiAura](https://www.spigotmc.org/resources/antiaura-»-reliable-cheat-detection-»-anti-cheat-plugin.1368/) - Last Updated on Feb 21, 2022
-[Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-bedrock-support-paper-compatibility-free-optimized.90766/) - Last Updated on Jan 11, 2022
-[LightAntiCheat](https://www.spigotmc.org/resources/lightanticheat.96341/) - Last Updated on Feb 18, 2022
+- [AntiAura](https://www.spigotmc.org/resources/antiaura-»-reliable-cheat-detection-»-anti-cheat-plugin.1368/) - Last Updated on Feb 21, 2022
+- [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-bedrock-support-paper-compatibility-free-optimized.90766/) - Last Updated on Jan 11, 2022
+- [LightAntiCheat](https://www.spigotmc.org/resources/lightanticheat.96341/) - Last Updated on Feb 18, 2022
 
 Partially Compatible (Does not Check/Ignores Bedrock Players)
 
