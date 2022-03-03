@@ -26,6 +26,8 @@ Incompatible (False Positives on Bedrock Players, no Compatibility at All)
 - [Kauri anticheat](https://www.spigotmc.org/resources/kauri-anticheat-best-in-class-performance-destroy-cheaters-1-7-10-1-18-1.53721/) - Last Updated Feb 26, 2022
 - [AACAdditionPro](https://www.spigotmc.org/resources/aacadditionpro.33590/) - Last Updated on Feb 11, 2022
 - [GodsEye AntiCheat](https://www.spigotmc.org/resources/godseye-anticheat-advanced-detection.69595/) - Last Updated Jan 16, 2022
+- [Taka AntiCheat](https://www.spigotmc.org/resources/taka-anticheat-takaac-cheap-and-reliable-solution.45167/) - Last Updated Apr 18, 2021 
+- [NESS Anti-Cheat](https://www.spigotmc.org/resources/ness-anti-cheat-reloaded.75887/) - Last Updated Aug 25, 2021
 - [Hawk Anticheat](https://www.spigotmc.org/resources/hawk-anticheat-mc-1-7-10-1-8-8.40343/) - Last Updated Sep 1, 2020
 - [AntiCheatReloaded](https://www.spigotmc.org/resources/23799/) - Last Updated on Jan 2, 2022
 - [Negativity](https://www.spigotmc.org/resources/86874/) - Last Updated on Jan 1, 2022
