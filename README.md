@@ -21,6 +21,8 @@ Partially Compatible (Does not Check/Ignores Bedrock Players)
 
 Incompatible (False Positives on Bedrock Players, no Compatibility at All)
 
+- [AxoWatcher](https://www.spigotmc.org/resources/axowatcher.100330/) - Last Updated March 3, 2022 
+- [Grim Anticheat](https://www.spigotmc.org/resources/grim-anticheat.99923/) - Last Updated on March 3, 2022
 - [AACAdditionPro](https://www.spigotmc.org/resources/aacadditionpro.33590/) - Last Updated on Feb 11, 2022
 - [AntiCheatReloaded](https://www.spigotmc.org/resources/23799/) - Last Updated on Jan 2, 2022
 - [Negativity](https://www.spigotmc.org/resources/86874/) - Last Updated on Jan 1, 2022
