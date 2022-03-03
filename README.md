@@ -25,6 +25,7 @@ Incompatible (False Positives on Bedrock Players, no Compatibility at All)
 - [Grim Anticheat](https://www.spigotmc.org/resources/grim-anticheat.99923/) - Last Updated on March 3, 2022
 - [Kauri anticheat](https://www.spigotmc.org/resources/kauri-anticheat-best-in-class-performance-destroy-cheaters-1-7-10-1-18-1.53721/) - Last Updated Feb 26, 2022
 - [AACAdditionPro](https://www.spigotmc.org/resources/aacadditionpro.33590/) - Last Updated on Feb 11, 2022
+- [Hawk Anticheat](https://www.spigotmc.org/resources/hawk-anticheat-mc-1-7-10-1-8-8.40343/) - Last Updated Sep 1, 2020
 - [AntiCheatReloaded](https://www.spigotmc.org/resources/23799/) - Last Updated on Jan 2, 2022
 - [Negativity](https://www.spigotmc.org/resources/86874/) - Last Updated on Jan 1, 2022
 - [NoCheatPlus](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) ([Compat NCP](https://github.com/Updated-NoCheatPlus/CompatNoCheatPlus/) is an addon that enables Partial Compatibility) - Last Updated on 19th August 2021
