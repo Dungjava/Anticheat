@@ -1,5 +1,5 @@
 # Anticheat Compatibility 
-I just make for fun but you should learn to choose anticheat for your server or support geyser
+I just make for fun but you should learn to choose anticheat for your server or support geyser.
 Do note that this is a community-compiled list and is incomplete! If you wish to update or add to this list, feel free.
 
 
